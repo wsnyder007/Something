@@ -5,13 +5,7 @@ using System.Text;
 using System.Data.SqlClient;
 using System.Configuration;
 
-using Android.App;
-using Android.Content;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-using Project_Tutor.Model;
+using Project_Tutor.Models;
 
 namespace Project_Tutor.Data {
     class DataConnection {
